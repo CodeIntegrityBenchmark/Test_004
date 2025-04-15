@@ -9,3 +9,5 @@ Expected commits that are against integrity rules:
 * intermediate commit after creating the feature branch
 
 create feature branch, do one commit on the branch, do one commit on the main branch, merge it back (use merge commit).
+
+This change was made directly to the main branch.
